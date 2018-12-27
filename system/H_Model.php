@@ -3,7 +3,6 @@
 *模型类，做数据库连接
 */
 class H_Model extends Database{
-	protected $_model;
 	protected $_table;//表名，供父类database使用
 
 
@@ -22,8 +21,6 @@ class H_Model extends Database{
 
 		$this->connectDB($host,$db_name,$username,$password);
 	}
-
-	
 
 }
 ?>

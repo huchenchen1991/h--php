@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+</head>
+<body>
+	<input type="text" id="inp">请输入
+	<input type="submit" id="sub">
+
+	<script type="text/javascript">
+		$("#sub").click(function(){
+			var val = $("#inp").val()
+			$.ajax({
+				type:"GET",
+				url:"test/testSQL/"+val,
+				success:function(res){
+					var re = JSON.parse(res)
+					alert(re.name)
+				}
+			})
+		})
+	</script>
+<!-- 	<form method="get" action="testSQL">
+		<input type="test" name="val">请输入
+		<input type="submit" name="提交">
+	</form> -->
+</body>
+</html>

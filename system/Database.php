@@ -3,6 +3,12 @@
 *数据库操作的基类，定义了数据库的基本操作，底层为PDO
 */
 class Database{
+	// const 
+
+	private $where_key = array();
+	private $where_opt = array();
+	private $where_value = array();
+	private $set_fields = array();
 	protected $_dbhandle;
 	// 数据库连接函数
 	public function connectDB($host,$db_name,$username,$password)
@@ -29,7 +35,17 @@ class Database{
 		return $stmt->fetchAll();
 	}
 
-	// 获取所有数据
+	// 获取一条数据
+	public function findOne()
+	{
+		$sql = sprintf("select * from %s limit 1",$this->_table);
+		$stmt = $this->_dbhandle->prepare($sql);
+		$stmt->execute();
+		$stmt->_dbhandle = NULL;
+		return $stmt->fetch();
+	}
+
+	// 获取所有数据数量
 	public function countAll()
 	{
 		$sql = sprintf("select * from %s",$this->_table);
@@ -66,7 +82,8 @@ class Database{
 		return $stmt->rowCount();
 	}
 
-	//loading 还在编写中.................
+
+
 }
 
 ?>

@@ -16,4 +16,6 @@
 12.$db = $this->db('ItemCarModel');连接数据库。第一个参数为模型类名，可以是itemcar也可以是itemcarmodel 也可以是itemcarmodel.php大小写不限
 第二个参数，默认default（config/database.php）中的数据库名。带上第二个参数的数据库名，可以改变数据库连接
 
-13.功能还在优化中........loading
+13,默认控制器中只能拥有一个方法--index，以作主页展示，其他的方法写在别的控制器。indexcontroller里面写一个index函数即可
+
+14.功能还在优化中........loading

@@ -9,12 +9,9 @@ $db['default']['password'] = '123456';
 $db['default']['dbname'] = 'h2';
 
 //
-$db['bd2']['host'] = "";
-$db['bd2']['username'] = '';
-$db['bd2']['password'] = '';
-$db['bd2']['dbname'] = '';
-
-
-
+// $db['bd2']['host'] = "";
+// $db['bd2']['username'] = '';
+// $db['bd2']['password'] = '';
+// $db['bd2']['dbname'] = '';
 return $db;
 ?>

@@ -51,6 +51,12 @@ class H_Controller{
 		return $this->db;	
 	}
 
+	//连接redis
+	public function redis()
+	{
+		
+	}
+
 	// 切换数据库连接
 	public function changedb($dbname)
 	{

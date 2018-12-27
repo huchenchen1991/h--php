@@ -161,6 +161,7 @@ class core{
 			$uriArray = explode('/', $uri);
 			$firstItem = $uriArray[0];
 			//如果uri第一项是不是目录，是目录则起目录中寻找
+			// echo APP_PATH.'controllers/'.$firstItem;die();
 			if(is_dir(APP_PATH.'controllers/'.$firstItem)){
 				// 更改控制器目录
 				$controllersPath = APP_PATH.'controllers/'.$firstItem.'/';
