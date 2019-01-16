@@ -685,3 +685,298 @@
 [27-Dec-2018 14:22:49 Europe/Paris] PHP   3. core->requireFile() C:\wamp\www\h\system\core.php:28
 [27-Dec-2018 14:22:49 Europe/Paris] PHP   4. core->getFileFromDir() C:\wamp\www\h\system\core.php:80
 [27-Dec-2018 14:22:49 Europe/Paris] PHP   5. require_once() C:\wamp\www\h\system\core.php:99
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Warning:  prev() expects exactly 1 parameter, 0 given in C:\wamp\www\h\application\controllers\indexController.php on line 15
+[29-Dec-2018 14:04:20 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:04:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:21 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[29-Dec-2018 14:04:21 Europe/Paris] PHP   6. prev() C:\wamp\www\h\application\controllers\indexController.php:15
+[29-Dec-2018 14:06:28 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\h\application\controllers\indexController.php on line 14
+[29-Dec-2018 14:06:28 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:06:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:06:28 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:06:28 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:06:37 Europe/Paris] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\wamp\www\h\application\controllers\indexController.php on line 14
+[29-Dec-2018 14:06:37 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:06:37 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:06:37 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:06:37 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[29-Dec-2018 14:06:38 Europe/Paris] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\wamp\www\h\application\controllers\indexController.php on line 14
+[29-Dec-2018 14:06:38 Europe/Paris] PHP Stack trace:
+[29-Dec-2018 14:06:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[29-Dec-2018 14:06:38 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[29-Dec-2018 14:06:38 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:03:36 Europe/Paris] PHP Notice:  Use of undefined constant a - assumed 'a' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:03:36 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:03:36 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:03:36 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:03:36 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:03:36 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:03:36 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:03:55 Europe/Paris] PHP Notice:  Undefined property: IndexController::$b in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:03:55 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:03:55 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:03:55 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:03:55 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:03:55 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:03:55 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:04:05 Europe/Paris] PHP Notice:  Use of undefined constant b - assumed 'b' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:04:05 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:04:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:04:05 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:04:05 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:04:05 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:04:05 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:04:06 Europe/Paris] PHP Notice:  Use of undefined constant b - assumed 'b' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:04:06 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:04:06 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:04:06 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:04:06 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:04:06 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:04:06 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:04:07 Europe/Paris] PHP Notice:  Use of undefined constant b - assumed 'b' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:04:07 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:04:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:04:07 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:04:07 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:04:07 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:04:07 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:20 Europe/Paris] PHP Warning:  Missing argument 1 for IndexController::index() in C:\wamp\www\h\application\controllers\indexController.php on line 10
+[30-Dec-2018 13:06:20 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:20 Europe/Paris] PHP Notice:  Undefined variable: a in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:06:20 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:20 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:34 Europe/Paris] PHP Warning:  Missing argument 1 for IndexController::index() in C:\wamp\www\h\application\controllers\indexController.php on line 10
+[30-Dec-2018 13:06:34 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:34 Europe/Paris] PHP Notice:  Undefined variable: a in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:06:34 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:34 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:44 Europe/Paris] PHP Warning:  Missing argument 1 for IndexController::index() in C:\wamp\www\h\application\controllers\indexController.php on line 10
+[30-Dec-2018 13:06:44 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:44 Europe/Paris] PHP Notice:  Undefined variable: a in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[30-Dec-2018 13:06:44 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:06:44 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:12:58 Europe/Paris] PHP Warning:  Missing argument 1 for IndexController::index() in C:\wamp\www\h\application\controllers\indexController.php on line 10
+[30-Dec-2018 13:12:58 Europe/Paris] PHP Stack trace:
+[30-Dec-2018 13:12:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[30-Dec-2018 13:12:58 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[30-Dec-2018 13:12:58 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[30-Dec-2018 13:12:58 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[30-Dec-2018 13:12:58 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[04-Jan-2019 03:40:52 Europe/Paris] PHP Fatal error:  Call to undefined function time33() in C:\wamp\www\h\application\controllers\indexController.php on line 14
+[04-Jan-2019 03:40:52 Europe/Paris] PHP Stack trace:
+[04-Jan-2019 03:40:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[04-Jan-2019 03:40:52 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[04-Jan-2019 03:40:52 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[04-Jan-2019 03:40:52 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[04-Jan-2019 03:40:52 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[04-Jan-2019 04:01:38 Europe/Paris] PHP Parse error:  syntax error, unexpected '&', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\wamp\www\h\application\controllers\indexController.php on line 14
+[04-Jan-2019 04:01:38 Europe/Paris] PHP Stack trace:
+[04-Jan-2019 04:01:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[04-Jan-2019 04:01:38 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[04-Jan-2019 04:01:38 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[04-Jan-2019 04:01:46 Europe/Paris] PHP Parse error:  syntax error, unexpected '&', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[04-Jan-2019 04:01:46 Europe/Paris] PHP Stack trace:
+[04-Jan-2019 04:01:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[04-Jan-2019 04:01:46 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[04-Jan-2019 04:01:46 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[04-Jan-2019 04:01:47 Europe/Paris] PHP Parse error:  syntax error, unexpected '&', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[04-Jan-2019 04:01:47 Europe/Paris] PHP Stack trace:
+[04-Jan-2019 04:01:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[04-Jan-2019 04:01:47 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[04-Jan-2019 04:01:47 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[04-Jan-2019 04:01:50 Europe/Paris] PHP Parse error:  syntax error, unexpected '&', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[04-Jan-2019 04:01:50 Europe/Paris] PHP Stack trace:
+[04-Jan-2019 04:01:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[04-Jan-2019 04:01:50 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[04-Jan-2019 04:01:50 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[04-Jan-2019 04:01:51 Europe/Paris] PHP Parse error:  syntax error, unexpected '&', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[04-Jan-2019 04:01:51 Europe/Paris] PHP Stack trace:
+[04-Jan-2019 04:01:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[04-Jan-2019 04:01:51 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[04-Jan-2019 04:01:51 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[04-Jan-2019 04:05:59 Europe/Paris] PHP Fatal error:  Call to undefined function time33() in C:\wamp\www\h\application\controllers\indexController.php on line 14
+[04-Jan-2019 04:05:59 Europe/Paris] PHP Stack trace:
+[04-Jan-2019 04:05:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[04-Jan-2019 04:05:59 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[04-Jan-2019 04:05:59 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[04-Jan-2019 04:05:59 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[04-Jan-2019 04:05:59 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[08-Jan-2019 14:03:22 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[08-Jan-2019 14:03:22 Europe/Paris] PHP Stack trace:
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[08-Jan-2019 14:03:22 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[08-Jan-2019 14:03:22 Europe/Paris] PHP Stack trace:
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[08-Jan-2019 14:03:22 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[08-Jan-2019 14:03:22 Europe/Paris] PHP Stack trace:
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[08-Jan-2019 14:03:22 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[09-Jan-2019 04:18:41 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[09-Jan-2019 04:18:41 Europe/Paris] PHP Stack trace:
+[09-Jan-2019 04:18:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[09-Jan-2019 04:18:41 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[09-Jan-2019 04:18:41 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[09-Jan-2019 04:18:41 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[09-Jan-2019 04:18:41 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:54:53 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[15-Jan-2019 12:54:53 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:54:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:54:53 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:54:53 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:54:53 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:54:53 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:54:54 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[15-Jan-2019 12:54:54 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:54:54 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[15-Jan-2019 12:54:54 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:54:54 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:55:12 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[15-Jan-2019 12:55:12 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:55:12 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:55:12 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:55:12 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:55:12 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:55:12 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:55:24 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[15-Jan-2019 12:55:24 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:55:24 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:55:24 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:55:24 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:55:24 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:55:24 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:57:04 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[15-Jan-2019 12:57:04 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:57:04 Europe/Paris] PHP Fatal error:  Call to undefined function set() in C:\wamp\www\h\application\controllers\indexController.php on line 12
+[15-Jan-2019 12:57:04 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:57:04 Europe/Paris] PHP   5. IndexController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:58:00 Europe/Paris] PHP Fatal error:  Call to undefined method TestModel::exec() in C:\wamp\www\h\application\models\TestModel.php on line 14
+[15-Jan-2019 12:58:00 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:58:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:58:00 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:58:00 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:58:00 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:58:00 Europe/Paris] PHP   5. TestController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:58:01 Europe/Paris] PHP   6. TestModel->test() C:\wamp\www\h\application\controllers\testController.php:11
+[15-Jan-2019 12:58:58 Europe/Paris] PHP Fatal error:  Class 'testmodel' not found in C:\wamp\www\h\system\H_Controller.php on line 45
+[15-Jan-2019 12:58:58 Europe/Paris] PHP Stack trace:
+[15-Jan-2019 12:58:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[15-Jan-2019 12:58:58 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[15-Jan-2019 12:58:58 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[15-Jan-2019 12:58:58 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:58:58 Europe/Paris] PHP   5. TestController->index() C:\wamp\www\h\system\core.php:207
+[15-Jan-2019 12:58:58 Europe/Paris] PHP   6. H_Controller->db() C:\wamp\www\h\application\controllers\testController.php:10

@@ -1,5 +1,4 @@
 <?php
-// require_once(LIB_PATH.'Redis.php');
 
 class RedisTestController extends H_Controller{
 	public function index(){
@@ -7,6 +6,11 @@ class RedisTestController extends H_Controller{
 		$redis->connect('127.0.0.1', 6379);
 		$redis->set('a', 1);
 		echo $redis->get('a');
+	}
+
+	public function test($a)
+	{
+		echo $a;
 	}
 }
 ?>
