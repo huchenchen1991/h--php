@@ -7,6 +7,11 @@ class TestController extends H_Controller{
 
 	public function index()
 	{
+		$arr = array('1','a','b');
+		$arr_json = json_encode($arr);
+		echo gettype(json_decode($arr_json));die();
+
+		echo "2222222222";die;
 		$db=$this->db('test');
 		$re = $db->test("呵呵爱丽丝堵我IE的");
 		// $this->render('view'); //渲染视图

@@ -980,3 +980,19 @@
 [15-Jan-2019 12:58:58 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
 [15-Jan-2019 12:58:58 Europe/Paris] PHP   5. TestController->index() C:\wamp\www\h\system\core.php:207
 [15-Jan-2019 12:58:58 Europe/Paris] PHP   6. H_Controller->db() C:\wamp\www\h\application\controllers\testController.php:10
+[21-Mar-2019 10:11:48 Europe/Paris] PHP Fatal error:  Class 'testmodel' not found in C:\wamp\www\h\system\H_Controller.php on line 45
+[21-Mar-2019 10:11:48 Europe/Paris] PHP Stack trace:
+[21-Mar-2019 10:11:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[21-Mar-2019 10:11:48 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[21-Mar-2019 10:11:48 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[21-Mar-2019 10:11:48 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[21-Mar-2019 10:11:48 Europe/Paris] PHP   5. TestController->index() C:\wamp\www\h\system\core.php:207
+[21-Mar-2019 10:11:48 Europe/Paris] PHP   6. H_Controller->db() C:\wamp\www\h\application\controllers\testController.php:10
+[21-Mar-2019 10:12:06 Europe/Paris] PHP Fatal error:  Class 'testmodel' not found in C:\wamp\www\h\system\H_Controller.php on line 45
+[21-Mar-2019 10:12:06 Europe/Paris] PHP Stack trace:
+[21-Mar-2019 10:12:06 Europe/Paris] PHP   1. {main}() C:\wamp\www\h\index.php:0
+[21-Mar-2019 10:12:06 Europe/Paris] PHP   2. core->start() C:\wamp\www\h\index.php:43
+[21-Mar-2019 10:12:06 Europe/Paris] PHP   3. core->routeParse() C:\wamp\www\h\system\core.php:37
+[21-Mar-2019 10:12:06 Europe/Paris] PHP   4. call_user_func_array:{C:\wamp\www\h\system\core.php:207}() C:\wamp\www\h\system\core.php:207
+[21-Mar-2019 10:12:06 Europe/Paris] PHP   5. TestController->index() C:\wamp\www\h\system\core.php:207
+[21-Mar-2019 10:12:06 Europe/Paris] PHP   6. H_Controller->db() C:\wamp\www\h\application\controllers\testController.php:10
